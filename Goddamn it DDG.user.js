@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  You want to use DuckDuckGo because you love them, but their search sucks sometimes and you have to use the evil empire because their search sucks slightly less
 // @author       Randy Kaelber (tungstencarbide@github)
-// @include      https://duckduckgo.com/?q*
+// @include      https://duckduckgo.com/?*q=*
 // @grant        none
 // ==/UserScript==
 
